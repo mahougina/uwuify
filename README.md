@@ -1,5 +1,5 @@
 # uwuify
-uwuify is a website that utilizes a service that will translate your input text into an uwu-ified message
+uwuify is a website that utilizes a RESTful service that will translate your input text into an uwu-ified message.
 
 ## what is uwu?
 uwu, in terms of "language," is when text is in the form of a cutesy, somewhat incoherent way.
